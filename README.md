@@ -1,5 +1,5 @@
 # Develop By : Sanjev R M
-# Req No : 212223040186
+# Reg No : 212223040186
 # EX-NO-12-ELGAMAL-ALGORITHM
 
 ## AIM:
